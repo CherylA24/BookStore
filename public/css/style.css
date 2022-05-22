@@ -1,0 +1,93 @@
+.form-signin .checkbox {
+    font-weight: 400;
+}
+  
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+  
+.form-signin .checkbox {
+    font-weight: 400;
+}
+  
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+  
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+  
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.form-registration input {
+    border-radius: 0;
+    margin-bottom: -1px;
+}
+
+.HomeBtn{
+    background-color: #3490DC;
+    margin-left: 4px;
+}
+
+.HomePaginate{
+    display: block;
+    margin: auto;
+}
+
+.HomeCard{
+    margin-bottom: 30px;
+}
+
+.SearchBar{
+    margin-right: 10px;
+}
+
+.NavBar{
+    background-color: #3490dc;
+}
+
+.Footer{
+    background-color: #3490dc;
+    clear: both;
+    position: relative;
+    height: 80px;
+    margin-top: -200px;
+}
+
+.Content{
+    margin-bottom: 100px;
+    min-height: 100%;
+}
+
+.LoginBtn{
+    background-color: #3490dc;
+}
+
+.LoginForm{
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.FormInput{
+    margin-bottom: 10px;
+}   
+
+.RegisterBtn{
+    background-color: #3490dc;
+}
+
+.RegisterFormContainer{
+    margin-bottom: 65px;
+}
+
+.RegisterForm{
+    padding: 20px 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
